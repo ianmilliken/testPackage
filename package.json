@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@alchemygs:registry": "https://npm.pkg.github.com"
+    "@ianmilliken:registry": "https://npm.pkg.github.com"
   }
 }
